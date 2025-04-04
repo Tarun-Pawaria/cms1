@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#container{
+    background-color: antiquewhite;
+    padding: 10px;
+}
+#contentdiv{
+    background-color: aqua;
+    padding: 10px;
+}
+#contentdiv1{
+    
+    padding: 10px;
+}
+#imgdiv{
+    padding: 10px;
+}
+ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+
+}
+
+#li{
+    list-style: none;
+    margin-right: 10px;
+    display: inline-block;
+}

@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+/* container css*/
+
+#container{
+    margin-top: 2px;
+    background-color: antiquewhite;
+    height:auto;
+}
+
+
+/* article div css*/
+
+#articlerowdiv{
+    background-color: rgb(109, 255, 255);
+    margin-bottom:10px ;
+    padding: 10px;
+}
+
+
+/* searchdiv css*/
+#searchdiv{
+    background-color: rgb(68, 112, 255);
+}
+#li{
+    list-style: none;
+    display: inline-block;
+    margin-left: 5px;
+}

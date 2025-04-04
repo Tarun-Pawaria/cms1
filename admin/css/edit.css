@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#container{
+    background-color: antiquewhite;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+#frmedit{
+    background-color: aliceblue;
+    padding: 10px;
+}
+#formdiv{
+    padding: 10px;
+}
+input{
+    
+    height:30px;
+    border: 2px solid black;
+    width: 100%;
+}
+textarea{
+    border: 2px solid black;
+    width: 100%;
+}
+#updatepost{
+    border-radius: 5px;
+    background-color: aquamarine;
+    padding: 5px;
+}
+#frmimg{
+    border: 0;
+    height: auto;
+}
+#imgup{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}

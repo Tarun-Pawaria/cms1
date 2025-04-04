@@ -1,0 +1,70 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+.col{
+    width: auto;
+}
+#back{
+    background-color: antiquewhite;
+    padding-bottom: 40px;
+    height:100Vh;
+}
+#addpostfrm{
+    background-color:white;
+   
+    padding:10px;
+    width: 400px;
+    height:auto;
+    position:relative;
+    
+    left: 30%;
+    top:10%;
+    
+}
+#frmtitles{
+    background-color: aquamarine;
+    padding: 10px;
+}
+#addpostfrmdiv{
+    
+    margin: 20px;
+}
+input{
+    border: 2px solid black;
+    height: 30px;
+    width: 100%;
+}
+#frmimg{
+    border: 0;
+    height: auto;
+    width: 100%;
+}
+textarea{
+    height: 80px;
+    border: 2px solid black;
+    width: 100%;
+}
+#addfrmbtn{
+    
+    padding: 10px;
+    border-radius: 10px;
+    background-color: yellowgreen;
+    position: relative;
+    left: 30%;
+}
+#addfrmbtn:hover{
+    background-color: rgb(170, 255, 0);
+}
+#wrong{
+    text-align: center;
+    border: 2px solid red;
+    color:red;
+}

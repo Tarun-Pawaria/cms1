@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+#loginfrm{
+    border: 2px solid black;
+    border-radius: 10px;
+    width: 350px;
+    height:auto;
+    position: relative;
+    margin-top:20%;
+    left:30%;
+}
+#formdiv1{
+    background-color: rgb(139, 255, 104);
+    padding: 10px;
+    border-radius: 8px 8px 0 0 ;
+}
+#formdiv{
+    padding: 10px;
+}
+input{
+    float: right;
+    height: 20px;
+}
+#loginfrmbtn{ 
+    padding: 10px;
+    border-radius: 10px;
+    background-color: yellowgreen;
+    position: relative;
+    left: 30%;
+}
+#loginfrmbtn:hover{
+    background-color: rgb(170, 255, 0);
+}
+#wrong{
+    text-align: center;
+    border: 2px solid red;
+    color:red;
+    width:200px;
+    height:50px;
+    position: relative;
+    left: 30%;
+    
+}

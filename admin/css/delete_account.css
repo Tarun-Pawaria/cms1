@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#container{
+    background-color: antiquewhite;
+    padding: 10px;
+}
+#divfrm{
+    padding: 10px;
+    background-color: aqua;
+}
+#formdeleteaccound{
+    padding: 10px;
+}
+#formdiv{
+    padding: 10px;
+}
+#deleteaccount{
+    padding: 10px;
+    border-radius: 10px;
+    background-color: red;
+    color: white;
+}
+#red{
+    border: 2px solid red;
+    color: red;
+    padding: 5px;
+}

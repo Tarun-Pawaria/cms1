@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+/* container css*/
+
+#container{
+    margin-top: 2px;
+    background-color: antiquewhite;
+}
+#aftercontainer{
+    padding: 5px;
+}
+
+
+/* article div css*/
+
+#articlediv1{
+    background-color: rgb(109, 255, 255);
+    margin-bottom: 10px;
+    padding: 5px;
+}
+  
+
+
+
+/* searchdiv css*/
+#searchdiv{
+    background-color: rgb(68, 255, 177);
+    height: 100px;
+}
+#searchbutton{
+    background-color: rgb(130, 209, 240);
+    color: white;
+}
+#searchbutton:hover{
+    background-color: rgb(0, 174, 243);
+}
+li{
+    list-style: none;
+    display: inline-block;
+    margin-left: 5px;
+}

@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+#regfrm{
+    border: 2px solid black;
+    border-radius: 10px;
+    width: 350px;
+    height:auto;
+    position: relative;
+    top:20%;
+    left:30%;
+}
+#regdiv1{
+    background-color: aquamarine;
+    padding: 10px;
+}
+#regdiv{
+    padding: 10px;
+}
+input{
+    float: right;
+    height: 20px;
+}
+#regfrmbtn{
+    padding: 10px;
+    border-radius: 10px;
+    background-color: yellowgreen;
+    position: relative;
+    left: 30%;
+}
+#regfrmbtn:hover{
+    background-color: rgb(170, 255, 0);
+}
